@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "211672301089",
+    "firebase_url": "https://suriksha2.firebaseio.com",
+    "project_id": "suriksha2",
+    "storage_bucket": "suriksha2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211672301089:android:4ccdd21090cef948",
+        "android_client_info": {
+          "package_name": "com.example.hp.suriksha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211672301089-lt4abg0vel6iu952sgu35knl4ekm8950.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.suriksha",
+            "certificate_hash": "6b9f0f92834e6aa9271319abaaa780b529b4b1b0"
+          }
+        },
+        {
+          "client_id": "211672301089-ur6c0gao6nte540rqmn9eqb2ajd9c2b1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9HFUZdsm7ahtmu9dNVrHcrU_4PiQHbUc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211672301089-ur6c0gao6nte540rqmn9eqb2ajd9c2b1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

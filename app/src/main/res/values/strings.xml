@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">suriksha</string>
+    <array name="genres">
+        <item>Secretariat</item>
+        <item>Vijawawada(PVP)</item>
+        <item>Mangalagiri</item>
+        <item>Guntur</item>
+
+    </array>
+    <array name="genres1">
+        <item>Secretariat</item>
+        <item>VIT-AP</item>
+    </array>
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+    <string name="title_activity_main">main</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
